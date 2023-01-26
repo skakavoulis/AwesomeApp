@@ -1,4 +1,4 @@
-﻿namespace AwesomeApp.Models;
+﻿namespace MyAwesomeWebApp.Models;
 
 public class ErrorViewModel
 {
